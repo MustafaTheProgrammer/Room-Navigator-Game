@@ -1,0 +1,6 @@
+*Some steps differ depending on OS*
+
+1. download the java file
+2. ensure you've installed JDK and JRE on computer
+3. in terminal compile by writing javac roomGame.java
+4. then run it by writing java roomGame
